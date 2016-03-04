@@ -33,8 +33,8 @@ at application architecture and my passion for expanding what’s possible in ap
 
 ## Experience Summary
 
-#### Vectria Consulting          
-__Consultant Developer__                      2015-2016
+Vectria Consulting     **Consultant Developer _2015-2016_**    
+
 Multiple small consulting and personal projects.
 *Stack* > React, Redux, GraphQL, WebPack, NPM, Docker Cloud (formerly Tutum.co), Amazon/Azure/Digital Ocean,
 MicroServices, RethinkDB, Redis, Redux-Router, Css-Modules, JWTs, SocketCluster
