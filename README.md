@@ -3,7 +3,7 @@ Brian Jimdar
 *Full-Stack, Web-Scale Developer*   
 ![Job Status=Available](https://img.shields.io/badge/Job%20Status-Available-brightgreen.svg)
 ![DevType=Full-Stack](https://img.shields.io/badge/Dev%20Type-Full--Stack-lightgrey.svg)
-![LinkedIn Connetions](https://img.shields.io/badge/LinkedIn%20Connections-285-blue.svg)
+[![Connections](https://img.shields.io/badge/LinkedIn%20Connections-285-blue.svg "View Brian's LinkedIn Profile")](https://www.linkedin.com/in/brianjimdar)
 
 ![Photo](https://avatars1.githubusercontent.com/u/587483?v=3&s=240)
 
