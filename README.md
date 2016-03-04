@@ -1,10 +1,12 @@
 # Brian Jimdar                                                             
-## Full-Stack, Web-Scale Developer                                        
+*Full-Stack, Web-Scale Developer*
 
 [Email](mailto:brian@jimdar.com)               [Resume](http://brian.jimdar.com/resume) 
 [Phone](tel:206-300-9241)        
+
 ## Summary
 Software developer since 1994 focusing on user experience design and application architecture across a wide range of development projects in C++, Java, C# and now primarily focused on full-stack mobile and Saas-application development in JavaScript. My immediate goal is to obtain the contract or FTE position where I can best apply my experience at application architecture and my passion for expanding what’s possible in application design.
+
 ## Tools and Platform Experience:
 
   |       Front-End     |     Middle       |   DataStore   |    Tools / Platforms    |
@@ -15,6 +17,7 @@ Software developer since 1994 focusing on user experience design and application
   | Knockout, Backbone  | ServiceStack,    | ElasticSearch | SendGrid, Analytics, CDN|                |
 
 ## Experience Summary
+
 ### Vectria Consulting          __Consultant Developer__                      2015-2016
 
 
