@@ -1,2 +1,32 @@
-# resume
-Brian Jimdar's Resume
+# Brian Jimdar                                                             
+## Full-Stack, Web-Scale Developer                                        
+
+[Email](mailto:brian@jimdar.com)               [Resume](http://brian.jimdar.com/resume) 
+[Phone](tel:206-300-9241)        
+## Summary
+Software developer since 1994 focusing on user experience design and application architecture across a wide range of development projects in C++, Java, C# and now primarily focused on full-stack mobile and Saas-application development in JavaScript. My immediate goal is to obtain the contract or FTE position where I can best apply my experience at application architecture and my passion for expanding what’s possible in application design.
+## Tools and Platform Experience:
+
+  |       Front-End     |     Middle       |   DataStore   |    Tools / Platforms    |
+  |---------------------|------------------|---------------|-------------------------|
+  | React, React-Native,| NodeJS, NPM,     | MongoDB,      | AWS, Azure, Heroku,     |
+  | Meteor/Blaze, D3js, | Meteor, Express, | PostgreSql,   | Docker, Ubuntu, CoreOS, |
+  | Angular, Socket.io, | Asp.net, MVC,    | MSSql,        | Redis, CI/CD, GitHub,   |
+  | Knockout, Backbone  | ServiceStack,    | ElasticSearch | SendGrid, Analytics, CDN|                |
+
+## Experience Summary
+### Vectria Consulting          __Consultant Developer__                      2015-2016
+
+
+### VendorWall.com           __Primary Developer__                            2014-2015
+Solely responsible for design and implementation of all technical aspects of a SAAS application stack to track internal profiles for contingent staff. 
+*Stack* > Meteor, Nodejs, Spacebars/Handlebars, LESS, Jasmine tests, Ubuntu, Atmospherejs, Socket.io, MongoDB, Redis, Amazon web service, Azure, Git, VS-Online.
+
+### \\Gestalt             __Microsoft contract developer__                    2011-2014
+Primary developer on Microsoft internal social media analysis project. Responsible for platform scale design and data visualization platform.
+*Stack* > Angular, SPA, IIS, Silverlight, FAST-Search, Postgres, IIS, Sql-Server.
+
+### @MicrosoftHelps       __MS Contract developer__                           2009-2011
+Sole developer responsible for design and implementation of internal Saas tool to support Customer-Service-Over-Social-Media initiative in customer service org. Basically an internal version of what HootSuite.com is now.
+*Stack* > Knockoutjs, Ajax, SPA, Asp.Net MVC, SQL-Server, IIS, Visual Studio, TFS.
+ > [full listing available online)(http://brian.jimdar.com/resume) 
